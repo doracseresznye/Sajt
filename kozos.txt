@@ -1,5 +1,5 @@
-1
+1 egy
 2 Sajt
-3
+3 három
 4 Székláb
-5
+5 öt
